@@ -85,15 +85,9 @@ Open `frontend/index.html` in your preferred web browser.
 
 -----
 
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## 👤 Contact
 
-**Devesh** - [Your Email/LinkedIn Link]  
+**Devesh** - [deveshmunagala23@gmail.com/ https://www.linkedin.com/in/deveshmunagala/]  
 Project Link: [https://github.com/your-username/project-drishti](https://www.google.com/search?q=https://github.com/your-username/project-drishti)
 
 -----
-
-**Would you like me to help you create a specific "How to Contribute" guide or a "Troubleshooting" section for this README?**
