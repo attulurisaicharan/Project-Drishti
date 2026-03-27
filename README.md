@@ -1,5 +1,3 @@
------
-
 # 🛰️ DRISHTI: Calamity-Aware Route Safety System
 
 **DRISHTI** (Vision) is an intelligent, crowd-sourced navigation engine designed to solve the "last-mile" safety problem during environmental calamities. Unlike standard GPS tools, DRISHTI validates real-time disaster reports using AI and provides mathematically safe detours around high-risk zones.
