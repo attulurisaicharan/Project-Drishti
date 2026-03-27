@@ -88,4 +88,3 @@ Open `frontend/index.html` in your preferred web browser.
 ## 👤 Contact
 
 **Devesh** - [deveshmunagala23@gmail.com/ https://www.linkedin.com/in/deveshmunagala/]  
-Project Link: [https://github.com/your-username/project-drishti](https://www.google.com/search?q=https://github.com/your-username/project-drishti)
