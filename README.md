@@ -1,5 +1,3 @@
-Here is a professional, high-impact README file for **Project DRISHTI**. It is designed to impress recruiters and developers by highlighting your unique logic—specifically the weighted trust engine and dynamic risk zones.
-
 -----
 
 # 🛰️ DRISHTI: Calamity-Aware Route Safety System
