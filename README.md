@@ -67,7 +67,7 @@ Open `frontend/index.html` in your preferred web browser.
 ## 🖥️ Usage
 
 1.  **Authentication:** Sign up or Login to activate the trust-tracking system.
-2.  **Reporting:** Switch to **Calamity Mode**, click the location on the map, and describe the situation (e.g., "Heavy waterlogging near the bridge").
+2.  **Reporting:** Switch to **Calamity Mode**, Click the location on the map, and describe the situation (e.g., "Heavy waterlogging near the bridge").
 3.  **Navigation:** Switch to **Route Mode**, select your Start and End points.
 4.  **Analysis:** Click **Analyze Route**. The system will highlight the safest path in green or warn you if no safe detour exists.
 
